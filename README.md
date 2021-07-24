@@ -4,6 +4,10 @@ Used continuous-bag-of-words and skip-gram model of word2vec to learn word embed
 Also conducted phrase-based categorization and sentiment analysis. 
 
 ## few interesting results
+Around the date of the release of iPhone X, the number of inbound tweets to AppleSupport sharply increases and there is an overall improvement in customer sentiment. 
+
+![apple_iphone](https://user-images.githubusercontent.com/58695866/126881345-e905b650-09b8-4fe5-9cd8-fb8c782971bd.PNG)
+
 Results from sentiment analysis:
 ![sentiment_by_brand](https://user-images.githubusercontent.com/58695866/126880313-0b78de52-1d61-46a0-bf51-d0c060c37a04.PNG)
 
