@@ -12,5 +12,6 @@ Using the embeddings learned through the word2vec model, we can query for analog
 ![analogy_spotify](https://user-images.githubusercontent.com/58695866/126880227-3f8df669-1bd4-4a77-a515-0714004a334c.PNG)
 
 We can also query the model for words similar to a given input such as for 'apple', 'applesupport', 'iphone' and 'applenews' is expected.
+
 ![sim_apple](https://user-images.githubusercontent.com/58695866/126880238-0969d03d-c57a-4f37-8228-d95a9316c612.PNG)
 
