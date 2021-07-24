@@ -1,7 +1,7 @@
 # Customer Support Data on Twitter
 Preprocessed tweets by stemming, lemmatization and removal of punctuations, stopwords and emojis and conducted exploratory data analysis. 
 Used continuous-bag-of-words and skip-gram model of word2vec to learn word embeddings along with topic modelling using Latent Dirichlet Allocation (LDA) and biterm-models. 
-Also, conducted phrase-based categorization and sentiment analysis. 
+Also conducted phrase-based categorization and sentiment analysis. 
 
 ## few interesting results
 Results from sentiment analysis:
